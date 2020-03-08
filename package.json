@@ -1,0 +1,19 @@
+{
+  "name": "com.jethummer.live2d",
+  "displayName": "Live2D",
+  "description": "Live2D",
+  "version": "1.0.5",
+  "unity": "2019.2",
+  "unityRelease": "0a12",
+  "dependencies": {
+    
+  },
+  "relatedPackages": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jethummer/Live2D.git",
+    "revision": ""
+  }
+}

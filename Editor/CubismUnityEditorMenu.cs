@@ -52,7 +52,7 @@ namespace Live2D.Cubism.Editor
         /// <summary>
         /// Unity editor menu should import as original workflow.
         /// </summary>
-        [MenuItem ("Live2D/Cubism/OriginalWorkflow/Should Import As Original Workflow")]
+        [MenuItem ("Window/Live2D/Cubism/OriginalWorkflow/Should Import As Original Workflow")]
         private static void ImportAsOriginalWorkflow()
         {
             SetImportAsOriginalWorkflow(!ShouldImportAsOriginalWorkflow);
@@ -67,7 +67,7 @@ namespace Live2D.Cubism.Editor
         /// <summary>
         /// Unity editor menu clear animation curves.
         /// </summary>
-        [MenuItem ("Live2D/Cubism/OriginalWorkflow/Should Clear Animation Curves")]
+        [MenuItem ("Window/Live2D/Cubism/OriginalWorkflow/Should Clear Animation Curves")]
         private static void ClearAnimationCurves()
         {
             SetClearAnimationCurves(!ShouldClearAnimationCurves);
